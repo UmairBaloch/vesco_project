@@ -1,0 +1,237 @@
+Live Url:http://idynxschool.com/vesco/
+
+https://www.w3schools.com/
+https://jquery.com
+http://jquery.com/download/
+https://api.jquery.com/
+
+Favicon:
+https://realfavicongenerator.net/   
+https://www.favicon.cc/
+https://www.favicon-generator.org/
+
+Fonts:
+https://fonts.google.com/
+for vesco project we will use roboto condensed font
+https://fonts.google.com/specimen/Roboto+Condensed
+https://fonts.google.com/specimen/Roboto+Condensed?selection.family=Roboto+Condensed:300,300i,400,400i,700,700i
+https://www.fontsquirrel.com/
+https://fontpair.co/
+
+Colors:
+https://coolors.co/
+https://coolors.co/04e762-f5b700-dc0073-008bf8-89fc00
+https://coolors.co/browser/latest/1
+https://www.color-blindness.com/color-name-hue/
+https://color.adobe.com/
+https://flatuicolors.com/
+https://www.webfx.com/web-design/hex-to-rgb/
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en
+
+Icons:
+https://fontawesome.com/
+https://fontawesome.com/icons?d=gallery
+download fontawesome for free
+https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
+
+Adding Bootstrap to our project
+http://getbootstrap.com/
+
+in our project we are using hero header
+here are few examples of hero header are:
+https://parall.ax/
+http://kinhr.com/
+http://leshopo.com/
+
+we will create Home Section first and use Bootstrap
+classes, first we use Bootstrap classes for buttons
+
+we will also have Bootstrap allignment classes
+
+these button are called ghost buttons
+which are transparent and emty button
+
+Parallex Scrolling Effect:
+website without Parallex Scrolling Effect:
+https://www.w3schools.com/howto/tryhow_css_parallax_demo_none.htm
+
+With Parallex Scrolling Effect:
+https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm
+document.ready jquery method
+https://api.jquery.com/ready/
+
+add vs code extension beautify to align code properly
+
+For animation:
+https://daneden.github.io/animate.css/
+let us download it and add it in our project
+
+The animation which we choose to add is fadeIn for home-cover
+zoomIn for heading and buttons
+
+Services Secion:
+paint-brush icon from fontawesome
+then install lorem ipsum extension
+
+Reveal Animation(wow.js) Jquery-plugin
+http://mynameismatthieu.com/WOW/
+http://mynameismatthieu.com/WOW/docs.html
+
+download this library form github
+https://github.com/matthieua/WOW
+
+Extension:
+Open in browser
+beautify
+Indent 
+lorem ipsum
+Bracket Snippet
+Snippet is a programming term for a small region of re-usable source code, 
+machine code, or text. Ordinarily, these are formally defined operative 
+units to incorporate into larger programming modules.
+
+For Free Images:
+https://unsplash.com/
+https://gratisography.com/
+
+To add Magnifying Popup Jquery Effect we will use free jquery plugin
+http://dimsemenov.com/plugins/magnific-popup/
+
+let us download this from github link
+https://github.com/dimsemenov/Magnific-Popup
+
+documentation and getting started
+http://dimsemenov.com/plugins/magnific-popup/documentation.html
+for adding magnific gallery Effect:
+http://dimsemenov.com/plugins/magnific-popup/documentation.html#gallery
+
+Adding Carousel Slider Effect Using Jquery
+https://owlcarousel2.github.io/OwlCarousel2/
+https://owlcarousel2.github.io/OwlCarousel2/docs/started-installation.html
+to set autoplay, speed option
+https://owlcarousel2.github.io/OwlCarousel2/docs/api-options.html
+
+Stat Section Adding Counter Jquery Effect:
+Using COUNTER-UP JQUERY PLUGIN
+http://bfintal.github.io/Counter-Up/demo/demo.html
+
+https://github.com/bfintal/Counter-Up
+download this from github
+
+Waypoints is the easiest way to trigger a function when you scroll to an element.
+http://imakewebthings.com/waypoints/(lets download this)
+
+add this in same counter folder
+
+now add this in index.html file
+
+
+Adding Carousel Slider Effect For Clients Section
+https://owlcarousel2.github.io/OwlCarousel2/docs/started-installation.html
+add owl-carousel class and owl-theme class in index.html
+
+Extension:
+Emmet: is a free plugin to write HTML AND CSS faster
+
+Emmet examples
+ul>li*5 after that press tab
+
+ div#page>div.logo+ul#navigation>li*5>a
+ 
+http://emmet.io/
+
+http://docs.emmet.io/abbreviations/syntax/
+
+http://docs.emmet.io/css-abbreviations/
+
+http://docs.emmet.io/cheat-sheet/
+ for adding footer copyright
+div#footer-bottom>div.container>div.col-md-6{copyrights}+div.col-md-6{footer-menu}
+div#footer-copyrights{Copyrights &copy; 2018 All Rights Reserved by Vesco Inc.}
+div#footer-menu>ul>li*7>a
+
+for menu:
+ ul>li*10>a
+
+
+Adding ScrollSpy Effect-Navigation
+http://getbootstrap.com/docs/3.3/javascript/#scrollspy
+add this in body
+
+
+Adding Smooth Scroll Using Jquery
+first add smooth-scroll class to navigation
+
+now add jQuery Easing Plugin
+http://gsgd.co.uk/sandbox/jquery/easing/
+
+download this plugin from jquery easing 1.3.js
+
+add this library in js folder after that add 
+this in index.html file
+
+add easeInOutExpo parameter to custom.js
+
+adding Back to Top Button
+a#back-to-top.btn.btn-sm.btn-blue.back-to-top.smooth-scroll>i.fas.fa-arrow-up
+
+
+we will adjust responsiveness using media queries
+
+https://getbootstrap.com/docs/3.3/customize/
+change @grid-float-breakpoint to 1199px
+after that download compile and download
+
+update css/bootstrap/bootstrap.min.css file
+
+owl-carousel-responsive:
+https://owlcarousel2.github.io/OwlCarousel2/demos/responsive.html
+add responsive breakpoint in custom.js clients Secion
+
+now for tem members we will do same responsive carousel breakpoint
+
+
+Responsive Layut Testing Tools:
+1. built in chrome mobile devise tool
+
+2. window Resizer Chrome Extension
+
+3. online Testing Tool:
+http://www.responsinator.com/
+
+4. http://quirktools.com/screenfly/
+
+
+Optimizing Website:
+
+Adding Basic SEO Search Engine Optimization
+
+What is SEO?
+"Search engine optimization is a methodology of strategies, techniques and 
+tactics used to increase the amount of visitors to a website by obtaining 
+a high-ranking placement in the search results page of a serch engine."
+
+Image Optimization:
+i am going to use an online tool for image optimization:
+https://tinypng.com/
+
+Code Validation:
+In software project management, software testing, and software engineering, 
+verification and validation (V&V) is the process of checking that a software 
+system meets specifications and that it fulfills its intended purpose.
+For HTML
+https://validator.w3.org/#validate_by_input
+
+For Css Validation:
+https://jigsaw.w3.org/css-validator/
+
+For JS Validation:
+we need to check chrome console
+
+Cross Browser Testing:
+css prefixes for safari browser
+https://autoprefixer.github.io/
+
+Making Website Live
+1. Domain Name (ie.www.yourdomain.com)
+2. Hosting Provider
