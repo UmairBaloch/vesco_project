@@ -275,9 +275,9 @@ h4.team-member-designation {
 .icon-gray i{
 	color: #64707b;
 }
-.icon-white i{
-	/*color: #fff;*/
-}
+/* .icon-white i{
+	color: #fff;
+} */
 .social-icon i:hover{
 	color: #34c6d3;
 }
